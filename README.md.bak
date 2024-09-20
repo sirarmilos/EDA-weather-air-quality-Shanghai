@@ -32,11 +32,11 @@ Koristi se programski jezik Python (i potrebne biblitoke). Koriste se metode za 
 Kratak pregled realizacije projekta:
 
 Projekat je tokom rada prirodno podeljen u 5 glavnih celina:
-1. Definisanje ideje i istraživačkog cilja
-2. Prikupljanje, pregled i prebacivanje podataka u prikladan oblik za dalji rad
-3. Početna istraživanja
-4. Početak analize podataka
-5. Zaključak
+	1. Definisanje ideje i istraživačkog cilja
+	2. Prikupljanje, pregled i prebacivanje podataka u prikladan oblik za dalji rad
+	3. Početna istraživanja
+	4. Početak analize podataka
+	5. Zaključak
 
 Detaljnije informacije o svakoj celini i koraku, kao i o rezultatima nalaze se u okviru repozitorijuma.
 
